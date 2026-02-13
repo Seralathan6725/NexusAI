@@ -46,3 +46,4 @@ mypy==1.8.0
 pydantic[email]
 numpy==1.26.4
 requests
+pandas==2.1.4
